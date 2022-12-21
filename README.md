@@ -4,7 +4,7 @@
 
 <div align="center">
 <p align="center">
-<a href="https://twitter.com/Kuchosauronado_" target="blank"><img src="https://img.shields.io/twitter/follow/Kuchosauronado_?logo=twitter&style=for-the-badge" alt="Kuchosauronado_" /></a><img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109296195067608705?domain=https%3A%2F%2Fhachyderm.io&style=social"></p>
+<img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109296195067608705?domain=https%3A%2F%2Fhachyderm.io&style=social"></p>
   
 ![Profile views](https://gpvc.arturio.dev/kuchosauronad0)
 </p>
