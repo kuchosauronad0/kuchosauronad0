@@ -14,5 +14,5 @@
 |---|---|
 | ![kuchosauronad0's github stats](https://github-readme-stats.vercel.app/api/?username=kuchosauronad0&show_icons=true&count_private=true&show_icons=true&theme=gotham&layout=compact) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuchosauronad0&layout=compact&hide=html&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) |
 
-
+<a rel="me" href="https://hachyderm.io/@anp">Mastodon</a>
 </div>
